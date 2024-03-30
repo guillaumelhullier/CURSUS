@@ -4,7 +4,8 @@ export const portfolioData = [
     name: "Kasa",
     languages: ["javascript"],
     languagesIcon: ["fab fa-js fa-3x"],
-    source: "https://github.com/guillaumelhullier/kasa1.git",
+    source: "https://github.com/guillaumelhullier/KASA-PROJET",
+    /* "https://github.com/guillaumelhullier/kasa1.git",*/
     info: "Application web de location immobilère avec Javascript",
     picture: "./media/project1.jpg",
   },
@@ -23,7 +24,8 @@ export const portfolioData = [
     name: "Kasa",
     languages: ["css"],
     languagesIcon: ["fab fa-css3-alt fa-3x"],
-    source: "https://github.com/guillaumelhullier/kasa1.git",
+    source: "https://github.com/guillaumelhullier/KASA-PROJET",
+    /* "https://github.com/guillaumelhullier/kasa1.git",*/
     info: "Application web de location immobilière avec CSS3 ",
     picture: ["./media/mark.jpg"],
   },
@@ -33,7 +35,8 @@ export const portfolioData = [
     name: "Kasa",
     languages: ["react"],
     languagesIcon: ["fab fa-react fa-3x "],
-    source: "https://github.com/guillaumelhullier/kasa1.git",
+    source: "https://github.com/guillaumelhullier/KASA-PROJET",
+    /*"https://github.com/guillaumelhullier/kasa1.git",*/
     info: "Application web de location immobilière avec React ",
     picture: ["./media/artificial.jpg"],
   },
