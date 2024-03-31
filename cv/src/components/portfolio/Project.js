@@ -15,7 +15,7 @@ export default class Project extends Component {
     let { name, languagesIcon, source, info, picture } = this.props.item;
 
     return (
-      <div className="project">
+      /*<div className="project">
         <div className="icone">
           <div className="icons">
             {languagesIcon.map((icon) => (
@@ -27,6 +27,21 @@ export default class Project extends Component {
           <div className="centre">
             <span className="infos" onClick={this.handleInfo}>
               <i className="fas fa-plus-circle fa-3x"></i>
+            </span>
+          </div>*/
+
+      <div className="project">
+        <div className="icone">
+          <div className="icons">
+            {languagesIcon.map((icon) => (
+              <i className={icon} key={icon}></i>
+            ))}
+          </div>
+          <h2> {name} </h2>
+          <img src={picture} alt="" onClick={this.handleInfo} />
+          <div className="centre">
+            <span className="infos" onClick={this.handleInfo}>
+              <p>Cliquez</p>
             </span>
           </div>
 

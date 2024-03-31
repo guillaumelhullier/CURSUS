@@ -46,11 +46,11 @@ export const portfolioData = [
     languages: ["javascript"],
     languagesIcon: ["fab fa-js fa-3x"],
     /*source: "https://github.com/guillaumelhullier/guillaumelhullier-cv.git",*/
-    source:
-      /* "https://github.com/guillaumelhullier/guillaume-lhullier-developer.git",*/
-      /* " https://github.com/guillaumelhullier/guillaumelhullier-developer.git",*/
-      /* "https://github.com/guillaumelhullier/guillaume-cv.git",*/
-      "https://github.com/guillaumelhullier/guillaume-developer.git",
+    source: "https://github.com/guillaumelhullier/cursus",
+    /* "https://github.com/guillaumelhullier/guillaume-lhullier-developer.git",*/
+    /* " https://github.com/guillaumelhullier/guillaumelhullier-developer.git",*/
+    /* "https://github.com/guillaumelhullier/guillaume-cv.git",*/
+    /*"https://github.com/guillaumelhullier/guillaume-developer.git",*/
     info: "Curriculum vitae ",
     picture: ["./media/project1.jpg"],
   },
@@ -76,11 +76,11 @@ export const portfolioData = [
     languages: ["react"],
     languagesIcon: ["fab fa-react fa-3x"],
     /* source: "https://github.com/guillaumelhullier/guillaumelhullier-cv.git",*/
-    source:
-      /* "https://github.com/guillaumelhullier/guillaume-lhullier-developer.git",*/
-      /* "https://github.com/guillaumelhullier/guillaumelhullier-developer.git",*/
-      /* "https://github.com/guillaumelhullier/guillaume-cv.git",*/
-      "https://github.com/guillaumelhullier/guillaume-developer.git",
+    source: "https://github.com/guillaumelhullier/cursus",
+    /* "https://github.com/guillaumelhullier/guillaume-lhullier-developer.git",*/
+    /* "https://github.com/guillaumelhullier/guillaumelhullier-developer.git",*/
+    /* "https://github.com/guillaumelhullier/guillaume-cv.git",*/
+    /* "https://github.com/guillaumelhullier/guillaume-developer.git",*/
     info: "Curriculum vitae ",
     picture: ["./media/artificial.jpg"],
   },
