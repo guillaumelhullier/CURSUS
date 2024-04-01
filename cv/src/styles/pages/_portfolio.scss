@@ -121,6 +121,7 @@
                             border-radius: 50px;
                             background-color: $color-5;
                             box-shadow: 0.5px 1px rgb(15, 15, 15);
+                            text-shadow: 1px 4px 1px $black;
 
 
 
@@ -150,8 +151,9 @@
                 height: 180px;
                 top: 100px;
                 width: 110%;
-                background-color: $color-2;
+                background-color: $color-5;
                 border-radius: $borderRadius;
+                box-shadow: 0.5px 1px rgb(15, 15, 15);
 
 
                 .infosContent {
@@ -167,6 +169,7 @@
                         h2 {
                             margin-bottom: 20px;
                             font-size: 2em;
+                            color: $color-1;
                         }
 
                         .sourceCode {
@@ -176,6 +179,11 @@
                             width: 60%;
                             margin: auto;
                             border-radius: $borderRadius;
+                            color: $color-1;
+
+                            p {
+                                color: $color-1;
+                            }
 
                             &:hover {
                                 background: $color-4;
@@ -202,7 +210,7 @@
                         margin-top: 30px;
                         background-color: $color-3;
                         box-shadow: 0.5px 1px rgb(15, 15, 15);
-                        width: 100%;
+                        width: 50%;
                         margin: auto;
                         margin-top: 10px;
                         cursor: pointer;
